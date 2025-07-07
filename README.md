@@ -28,4 +28,6 @@ Me apasiona traducir datos en conocimiento útil para la conservación, la gesti
 
 | Proyecto | Descripción | Herramientas |
 |---------|-------------|---------------|
-| [📊 Fast Food SQL](https://github.com/valerialc/fastfood-sql) | Modelado y análisis de base de datos relacional para restaurante de comida rápida | SQL
+| [📦 Proyecto-biogenesys](https://github.com/valerialc/Proyecto-biogenesys) | Expansión estratégica de laboratorios y centros de vacunación en LATAM usando Python y Power BI | Python · Power BI · Jupyter |
+| [📦 Destilería 1823](https://github.com/valerialc/Destileria1823PI) | Optimización de inventario para canal e-commerce mediante análisis de datos | Jupyter · Python · Excel · Power BI |
+
