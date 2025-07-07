@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩‍💻 Valeria Lozano Castañeda
 
-<!--
-**valerialc/valerialc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniera Ambiental y Sanitaria | Data Analyst**  
+📍 Santa Marta, Colombia  
+📫 valerialozano0600@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌿 Sobre mí
+
+Soy ingeniera ambiental con formación en análisis de datos. Combino el enfoque técnico con herramientas modernas como SQL, Python, Power BI y Sistemas de Información Geográfica (SIG) para generar soluciones sostenibles y basadas en evidencia.
+
+Me apasiona traducir datos en conocimiento útil para la conservación, la gestión ambiental y la mejora de procesos empresariales.
+
+---
+
+### 🛠️ Tecnologías que uso
+
+- **Lenguajes:** SQL · Python · DAX
+- **Herramientas de análisis:** Power BI · Looker Studio · Excel Avanzado
+- **Georreferenciación:** ArcGIS Pro · QGIS · Google Earth
+- **Bases de datos:** SQL Server · PostgreSQL
+- **Control de versiones:** Git · GitHub
+
+---
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Herramientas |
+|---------|-------------|---------------|
+| [📊 Fast Food SQL](https://github.com/valerialc/fastfood-sql) | Modelado y análisis de base de datos relacional para restaurante de comida rápida | SQL
