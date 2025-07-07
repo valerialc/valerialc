@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Valeria Lozano Castañeda 👋</h1>
 
-🎓 Ingeniera Ambiental y Sanitaria | 📊 Data Analyst  
-🌎 Comprometida con el análisis de datos para la sostenibilidad y la toma de decisiones estratégicas.
+| 📊 Data Analyst | 🎓 Ingeniera Ambiental y Sanitaria |
+🌎 Comprometida con el análisis de datos y la toma de decisiones estratégicas.
 
 ---
 
