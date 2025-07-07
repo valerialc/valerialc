@@ -51,7 +51,7 @@ Modelos de machine learning · Storytelling con datos · Automatización con Pyt
 ### 📫 Contacto
 
 - 📧 Email: valerialozano0600@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/valerialozano](https://www.linkedin.com/in/valerialozano)  
+- 🌐 LinkedIn: https://www.linkedin.com/in/valerialcasta/
 
 ---
 
